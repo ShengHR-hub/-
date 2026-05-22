@@ -6,6 +6,7 @@ import datetime
 # 1. 让爸爸、妈妈、姐姐分别扫你的测试号二维码
 # 2. 扫完后，在测试号后台列表里找到他们的 OpenID，填入下方列表
 FAMILY_MEMBERS = [
+    {"name": "舍友", "user": "op_Zv3NDp0wcrfYSBvPVipE90H3c", "city_code": "130281"},
     {"name": "姐姐", "user": "op_Zv3POyuCmKVyYXatwT_5EUuYs", "city_code": "130203"} # 姐姐的城市代码
 ]
 
